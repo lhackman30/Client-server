@@ -1,0 +1,5 @@
+1234567890
+This file is a test
+for server-client
+project.
+

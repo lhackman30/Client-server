@@ -1,0 +1,17 @@
+This is also 
+A test for the 
+Server - client program
+but this
+file 
+has more lines in it to 
+test the length of the file
+transfer
+1
+11
+111
+1111
+11111
+111111
+1111111
+11111111
+
